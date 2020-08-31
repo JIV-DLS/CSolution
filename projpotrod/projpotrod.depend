@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598793848 source:c:\users\user\tksbuntsu\projpotrod\main.c
+	<stdio.h>
+	<stdlib.h>
+
